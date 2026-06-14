@@ -1,0 +1,17 @@
+{
+  "name": "CludenateF AI",
+  "short_name": "CludenateF",
+  "description": "AI Super Cerdas - Semua Bidang",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1117",
+  "theme_color": "#6c63ff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://api.iconify.design/twemoji:robot.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
